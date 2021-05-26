@@ -1,5 +1,5 @@
 #URI 
 
-Alguns exercícios resolvidos de C++ do URI
+Alguns exercícios resolvidos em Python do URI
 
 
